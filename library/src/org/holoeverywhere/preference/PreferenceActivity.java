@@ -740,7 +740,7 @@ public abstract class PreferenceActivity extends ListActivity implements
     }
 
     @Override
-    protected void onNewIntent(Intent intent) {
+    public void onNewIntent(Intent intent) {
         if (mPreferenceManager != null) {
             mPreferenceManager.dispatchNewIntent(intent);
         }
