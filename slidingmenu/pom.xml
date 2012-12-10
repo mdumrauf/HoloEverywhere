@@ -9,7 +9,7 @@
 	<parent>
 		<groupId>org.holoeverywhere</groupId>
 		<artifactId>parent</artifactId>
-		<version>1.4.1-SNAPSHOT</version>
+		<version>1.4.1-b0eb4363f04c8d4d5eebc544f4dbba7d7fb46671</version>
 	</parent>
 
 	<dependencies>
@@ -21,7 +21,7 @@
 			<groupId>org.holoeverywhere</groupId>
 			<artifactId>library</artifactId>
 			<type>apklib</type>
-			<version>1.4.1-SNAPSHOT</version>
+			<version>1.4.1-b0eb4363f04c8d4d5eebc544f4dbba7d7fb46671</version>
  		</dependency>
 	</dependencies>
 
